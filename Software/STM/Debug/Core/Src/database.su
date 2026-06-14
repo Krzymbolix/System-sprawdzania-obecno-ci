@@ -1,0 +1,6 @@
+../Core/Src/database.c:1280:8:findListPointer	40	static
+../Core/Src/database.c:1289:6:init_database	8	static
+../Core/Src/database.c:1514:7:findStudentId	24	static
+../Core/Src/database.c:1524:7:findTeacherId	24	static
+../Core/Src/database.c:1534:10:getLessonIds	24	static
+../Core/Src/database.c:1549:9:isStudentOnList	24	static
